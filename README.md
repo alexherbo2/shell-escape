@@ -1,6 +1,6 @@
-# shell-escape
+# shell-escape.cr
 
-shell-escape is a [Crystal] library and command-line program to escape strings, so that it can be safely used in a shell command-line.
+shell-escape.cr is a [Crystal] library and command-line program to escape strings, so that it can be safely used in a shell command-line.
 
 [Crystal]: https://crystal-lang.org
 
@@ -28,7 +28,7 @@ make install
 ``` yaml
 dependencies:
   shell-escape:
-    github: alexherbo2/shell-escape
+    github: alexherbo2/shell-escape.cr
 ```
 
 2. Run `shards install`.
